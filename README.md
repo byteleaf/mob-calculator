@@ -8,3 +8,5 @@ Weiterführende Aufgaben:
 - Gleitkommazahlen sollen unterstützt werden.
 - Klammern sollen unterstützt werden: `7.1 - (3.05 + 4.05) = 0`
 - Multiplikation und Division soll unterstützt werden: `2.0 * (4 + 8 / 2) = 16`
+
+Hallo
